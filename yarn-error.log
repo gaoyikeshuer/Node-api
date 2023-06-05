@@ -1,0 +1,46 @@
+Arguments: 
+  /Users/mac/.nvm/versions/node/v16.10.0/bin/node /Users/mac/.nvm/versions/node/v16.10.0/bin/yarn add express
+
+PATH: 
+  /Users/mac/.rvm/gems/ruby-2.7.5/bin:/Users/mac/.rvm/gems/ruby-2.7.5@global/bin:/Users/mac/.rvm/rubies/ruby-2.7.5/bin:/Users/mac/.nvm/versions/node/v16.10.0/bin:/Users/mac/.rbenv/shims:/Users/mac/.rbenv/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/mac/.rvm/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND nexus3.aib.pri
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  {
+    "name": "node-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gaoyikeshuer/Node-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/gaoyikeshuer/Node-api/issues"
+    },
+    "homepage": "https://github.com/gaoyikeshuer/Node-api#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
